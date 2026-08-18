@@ -1,4 +1,4 @@
-document.addEventListener(‘DOMContentLoaded’,function () {
-    document.getElementById(‘year’).innerHTML = new Date().getFullYear();
+document.addEventListener('DOMContentLoaded',function () {
+    document.getElementById('year').innerHTML = new Date().getFullYear();
     console.log(‘Portfolio ของ Oraphan พร้อมแล้ว!’);
 });
